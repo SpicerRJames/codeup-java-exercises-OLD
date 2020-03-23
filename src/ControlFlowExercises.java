@@ -17,7 +17,7 @@ public class ControlFlowExercises {
 //        do {
 //            i = i-5;
 //            System.out.println(i);
-//        }while (i>5);
+//        }while (i>=-10);
 
 //        float i = 2;
 
