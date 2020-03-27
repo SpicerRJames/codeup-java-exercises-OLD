@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bob<src_988a4909>",
+            "request": "launch",
+            "mainClass": "Bob",
+            "projectName": "src_988a4909"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConsoleExercises<src_988a4909>",
+            "request": "launch",
+            "mainClass": "ConsoleExercises",
+            "projectName": "src_988a4909"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConsoleIoLec<src_988a4909>",
+            "request": "launch",
+            "mainClass": "ConsoleIoLec",
+            "projectName": "src_988a4909"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ControlFlowExercises<src_988a4909>",
+            "request": "launch",
+            "mainClass": "ControlFlowExercises",
+            "projectName": "src_988a4909"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Demo<src_988a4909>",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "src_988a4909"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MethodsExercises<src_988a4909>",
+            "request": "launch",
+            "mainClass": "MethodsExercises",
+            "projectName": "src_988a4909"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Person<src_988a4909>",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "src_988a4909"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringExercise<src_988a4909>",
+            "request": "launch",
+            "mainClass": "StringExercise",
+            "projectName": "src_988a4909"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Input<src_988a4909>",
+            "request": "launch",
+            "mainClass": "util.Input",
+            "projectName": "src_988a4909"
+        }
+    ]
+}
